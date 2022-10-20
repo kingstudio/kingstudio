@@ -2,11 +2,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Grain Rain
+title: Kingstudio
 logo:
 author: kingstudio
-description: this kingstudio's blog.
-email: minest@aliyun.com
+description: this is kingstudio's blog.
+email: MINEST AT ALIYUN DOT COM
 phone: +86 158 8205 9334
 address: No. 46, Nanchang Road, Guanghan, Sichuan, CHINA
 copyright: Copyright &copy; 2020 Kingstudio All Right Reserved. Theme Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -88,10 +88,10 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: C#, color: "#fdb157", value: "60%" }
+  - { name: JAVA, color: "#9473e6", value: "60%" }
+  - { name: Python, color: "#bdecf6", value: "40%" }
+  - { name: HTML, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -179,16 +179,16 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Web", type: "web" }
+  - { title: "App", type: "app" }
+  - { title: "PC", type: "pc" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "app"
+      - type: "pc"
 
 #-------------------------------
 # Testimonials Section
@@ -209,5 +209,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
+contact-title: Leave Me a Message
 contact-email: f/xlevladp
