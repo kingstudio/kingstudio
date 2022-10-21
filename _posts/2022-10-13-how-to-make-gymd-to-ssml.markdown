@@ -2,7 +2,7 @@
 layout: post
 title:  怎样将GYMD转换成SSML
 date:   2022-10-13 10:05:55 +0300
-image:  /assets/images/blog/post-2.png
+image:  /assets/images/blog/post-1.jpg
 author: kingstudio
 tags:   ssml
 ---

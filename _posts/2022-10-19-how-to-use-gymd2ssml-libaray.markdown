@@ -2,8 +2,7 @@
 layout: post
 title:  怎样使用Gymd2ssml类库
 date:   2022-10-19 10:05:55 +0800
-image:  /assets/images/blog/post-2.png
-author: kingstudio
+image:  /assets/images/blog/post-1.jpg
 tags:   gymd
 ---
 
