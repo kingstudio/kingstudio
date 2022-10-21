@@ -2,10 +2,10 @@
 #-------------------------------
 # General Site Settings
 
-title: Kingstudio
+title: Grainrain
 logo:
-author: kingstudio
-description: this is kingstudio's blog.
+author: Grainrain
+description: this is Grainrain's blog.
 email: MINEST AT ALIYUN DOT COM
 phone: +86 158 8205 9334
 address: No. 46, Nanchang Road, Guanghan, Sichuan, CHINA
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: A website for sharing technology and airworthiness management.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -209,5 +209,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Leave Me a Message
+contact-title: Contact Info
 contact-email: f/xlevladp
